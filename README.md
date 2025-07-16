@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhawa Diyanth Swarnakantha</h1>
+<h1 align="center">Hi 👋, I'm Madhawa Diyanath Swarnakantha</h1>
 <h3 align="center">Frontend Developer | Video Editor | Java Enthusiast from Sri Lanka</h3>
 
 <p align="center">
