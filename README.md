@@ -43,12 +43,12 @@
 ## 📊 GitHub Stats & Animations  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhawadiyanath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhawadiyanath&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IT23844506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT23844506&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhawadiyanath&bg_color=0D1117&color=22d3ee&line=38bdae&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT23844506&bg_color=0D1117&color=22d3ee&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
