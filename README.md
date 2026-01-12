@@ -25,17 +25,27 @@
 
 ### ⚡ Programming Languages  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,python,html,css" />
+</p>
+
+### 📚 Frameworks & Libraries  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,bootstrap,tailwind" />
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,mssql,firebase" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux" />
 </p>
 
 ### 🛠️ Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,ps,premiere,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,intellij,figma,postman,gradle,maven,jenkins,photoshop,premiere,aftereffects,blender" />
 </p>
 
 ---
@@ -66,8 +76,14 @@
   <a href="https://www.youtube.com/c/mad_hawa" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" />
   </a>
+  <a href="https://www.linkedin.com/in/yourusername" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
   <a href="mailto:it23844506@my.sliit.lk">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" />
   </a>
 </p>
 
